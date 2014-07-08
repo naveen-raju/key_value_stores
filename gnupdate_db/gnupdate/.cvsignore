@@ -1,0 +1,12 @@
+.libs
+.deps
+Makefile
+Makefile.in
+core
+*.la
+*.o
+*.lo
+.*.swp
+.*.swo
+.icons
+.swp

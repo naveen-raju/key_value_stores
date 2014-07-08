@@ -1,0 +1,14 @@
+*.la
+*.o
+*.lo
+.*.swp
+.*.swo
+.icons
+.libs
+.deps
+.swp
+Makefile
+Makefile.in
+btree_test
+core
+metadata
